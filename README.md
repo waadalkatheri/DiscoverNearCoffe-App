@@ -9,6 +9,7 @@ Setting up Project
 <br/>
 <img src="./captures/project_activity_name.png" width="100%" height="100%"/>
 <br/>
+[[https://github.com/waadalkatheri/repository/blob/master/img/Screenshot_20181215-012745.png|alt=octocat]]
 
 # Near By Search
 Steps 5:
