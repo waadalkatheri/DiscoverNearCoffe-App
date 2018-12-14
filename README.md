@@ -1,5 +1,7 @@
 Setting up Project
 ---------------------------
+![alt text](https://d.top4top.net/p_10789bmu12.png)
+
 <br/>
 <img src="Screenshot_20181215-012745.png" width="100%" height="100%"/>
 <br/>
