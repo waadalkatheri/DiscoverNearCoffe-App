@@ -1,17 +1,9 @@
 Setting up Project
 ---------------------------
 ![alt text](https://d.top4top.net/p_10789bmu12.png)
-
-<br/>
-<img src="Screenshot_20181215-012745.png" width="100%" height="100%"/>
-<br/>
-<img src="./captures/Screenshot_20181215-012745.png" width="100%" height="100%"/>
-<br/>
-<img src="./captures/project_activity_selection.png" width="100%" height="100%"/>
-<br/>
-<img src="./captures/project_activity_name.png" width="100%" height="100%"/>
-<br/>
 ![alt text](https://c.top4top.net/p_1078ben271.png)
+![alt text](https://e.top4top.net/p_10784bje43.png)
+
 
 # Near By Search
 Steps 5:
@@ -22,23 +14,6 @@ Steps 5:
 5. Cross check.
 
 
- 1.Setting up dependencies:
-----------------------------------
-Build.gradle dependencies 
-````
-    //map
-    compile 'com.google.android.gms:play-services-maps:10.2.1'
-    //location
-    compile 'com.google.android.gms:play-services-location:10.2.0'
-    
-    //Retrofit networking api
-    compile "com.squareup.retrofit2:retrofit:2.1.0"
-    compile "com.squareup.retrofit2:converter-gson:2.1.0"
-    compile 'com.squareup.okhttp:okhttp:2.4.0'
-    compile "com.squareup.okhttp3:logging-interceptor:3.4.1"
-````
-More on <a href="./app/build.gradle">build.gradle</a>
-<img src="./captures/build_gradle.png"/>
 
 
 2.Setting up permissions
@@ -146,4 +121,3 @@ Api call for finding places:
 ````
 
 
-<img src="./captures/Restaurants.png" width="30%" height="30%"/>
