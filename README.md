@@ -3,7 +3,7 @@ Setting up Project
 <br/>
 <img src="./downloads/Screenshot_20181215-012745.png" width="100%" height="100%"/>
 <br/>
-<img src="./captures/project_setup.png" width="100%" height="100%"/>
+<img src="./captures/Screenshot_20181215-012745.png" width="100%" height="100%"/>
 <br/>
 <img src="./captures/project_activity_selection.png" width="100%" height="100%"/>
 <br/>
