@@ -1,3 +1,8 @@
+
+ # Discovere Nearest Caffe APP ( Near By Search )
+ Based on the location the user will be Discovere for the nearest Caffe through use the retrofit library to specify the request parameters and embed the place type and Latitude, Longitude within the request. and send it via Create a custom HTTP header. After that Send the GET HTTP request to the Google Place API server included with the API key to authenticate the request plus the customize HTTP header to get the server response via get nearby Caffe.
+
+
 Setting up Project
 ---------------------------
 ![alt text](https://d.top4top.net/p_10789bmu12.png)
@@ -40,9 +45,7 @@ Map
               android:layout_height="match_parent"/>
 ````
 More on <a href="./app/src/main/res/layout/activity_search_near_by_places.xml">Activity view</a>
-https://ibb.co/F6wn6Cf
-https://ibb.co/g7F803z
-https://ibb.co/X3LTbBq
+
 4.Setting up networking with Retrofit
 -----------------------------------
 
