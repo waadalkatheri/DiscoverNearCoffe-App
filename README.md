@@ -63,7 +63,9 @@ Map
               android:layout_height="match_parent"/>
 ````
 More on <a href="./app/src/main/res/layout/activity_search_near_by_places.xml">Activity view</a>
-
+https://ibb.co/F6wn6Cf
+https://ibb.co/g7F803z
+https://ibb.co/X3LTbBq
 4.Setting up networking with Retrofit
 -----------------------------------
 
