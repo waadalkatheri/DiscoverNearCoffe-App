@@ -9,7 +9,7 @@ Setting up Project
 <br/>
 <img src="./captures/project_activity_name.png" width="100%" height="100%"/>
 <br/>
-![alt text](https://ibb.co/F6wn6Cf)
+![alt text](https://c.top4top.net/p_1078ben271.png)
 
 # Near By Search
 Steps 5:
