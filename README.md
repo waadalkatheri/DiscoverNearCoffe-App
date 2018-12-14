@@ -1,7 +1,7 @@
 Setting up Project
 ---------------------------
 <br/>
-<img src="./downloads/Screenshot_20181215-012745.png" width="100%" height="100%"/>
+<img src="Screenshot_20181215-012745.png" width="100%" height="100%"/>
 <br/>
 <img src="./captures/Screenshot_20181215-012745.png" width="100%" height="100%"/>
 <br/>
