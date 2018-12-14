@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NearBySearch</string>
+    <string name="google_maps_key">AIzaSyCe0L2pON1GBKGzTCYu6-T2d2cbt-OlHNo</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_detail_park">DetailPark</string>
+</resources>
